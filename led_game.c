@@ -1,5 +1,4 @@
-// SUDEEP SAURABH 2k19/EC/190
-// Swapnil Gour 2k19/EC/191
+// SUDEEP SAURABH
 
 #pragma config FOSC = XT        // Oscillator Selection bits (XT oscillator)
 #pragma config WDTE = OFF       // Watchdog Timer Enable bit (WDT disabled)
